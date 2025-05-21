@@ -30,10 +30,8 @@ Data.csv: The dataset used (add your own dataset if not included)
 📦 Installation
 pip install -r requirements.txt
 
-▶️ Usage
-Run the script after placing your dataset named Data.csv in the same directory:
-python data_processing.py
 
-📄 License
-This project is licensed under the MIT License.
+🧑‍💻 Author
+Adityaa Bandaru
+
 
